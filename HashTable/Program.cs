@@ -11,6 +11,7 @@ namespace HashTable
         static void Main(string[] args)
         {
             Console.WriteLine("This is first GitHub test");
+            Console.WriteLine("This is GitHub test for changes");
             Console.ReadLine();
         }
     }
