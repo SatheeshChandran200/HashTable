@@ -9,5 +9,6 @@ namespace HashTable
     public class Module1
     {
         public string ComputerName { get; set; }
+        public string UserName { get; set; }
     }
 }
