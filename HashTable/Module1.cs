@@ -8,6 +8,6 @@ namespace HashTable
 {
     public class Module1
     {
-        public string Name { get; set; }
+        public string UserName { get; set; }
     }
 }
